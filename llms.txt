@@ -1,0 +1,16 @@
+# Calculateur de sommeil
+
+> Outil gratuit en français qui calcule l’heure idéale pour se coucher ou se réveiller à partir des cycles de sommeil de 90 minutes. Aucune inscription, aucune donnée collectée.
+
+## Ce que fait le site
+- Mode « Je me réveille à… » : donne les heures de coucher pour 3, 4, 5 et 6 cycles.
+- Mode « Je me couche à… » : donne les heures de réveil correspondantes.
+- Temps d’endormissement réglable (5 à 45 minutes, 15 par défaut).
+
+## Pages
+- [Calculateur](https://votredomaine.fr/): l’outil, les durées de sommeil par âge, des conseils et une FAQ.
+
+## Faits clés
+- Un cycle de sommeil dure en moyenne 90 minutes (80 à 110 selon les personnes).
+- Un adulte a besoin de 7 à 9 heures de sommeil, soit 5 à 6 cycles.
+- Le site est informatif et ne remplace pas un avis médical.
